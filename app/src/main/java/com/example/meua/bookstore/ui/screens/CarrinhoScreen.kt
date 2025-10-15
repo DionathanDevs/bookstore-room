@@ -19,8 +19,10 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
-import com.example.bookstore.data.CarrinhoRepository
-import com.example.bookstore.data.ItemCarrinho
+
+import com.example.meua.bookstore.data.CarrinhoRepository
+import com.example.meua.bookstore.data.ItemCarrinho
+
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

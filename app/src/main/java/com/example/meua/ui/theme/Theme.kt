@@ -1,4 +1,4 @@
-package com.example.bookstore.ui.theme
+package com.example.meua.ui.theme
 
 import android.app.Activity
 import android.os.Build
